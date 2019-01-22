@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/PycharmProjects/DeepLearning/.idea/DeepLearning.iml" filepath="$USER_HOME$/PycharmProjects/DeepLearning/.idea/DeepLearning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../cancer-prediction-pytorch/.idea/cancer-prediction-pytorch.iml" filepath="$PROJECT_DIR$/../cancer-prediction-pytorch/.idea/cancer-prediction-pytorch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/churn-prediction-keras.iml" filepath="$PROJECT_DIR$/.idea/churn-prediction-keras.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../churn-prediction-pytorch/.idea/churn-prediction-pytorch.iml" filepath="$PROJECT_DIR$/../churn-prediction-pytorch/.idea/churn-prediction-pytorch.iml" />
+    </modules>
+  </component>
+</project>
