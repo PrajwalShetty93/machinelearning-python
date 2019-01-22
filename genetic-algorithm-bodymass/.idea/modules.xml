@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/churn-prediction-keras.iml" filepath="$PROJECT_DIR$/.idea/churn-prediction-keras.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/genetic-algorithm-bodymass.iml" filepath="$PROJECT_DIR$/.idea/genetic-algorithm-bodymass.iml" />
     </modules>
   </component>
 </project>
